@@ -1,0 +1,30 @@
+/* h1, p, navbar, fotter, img*/
+/*
+light blue: #4CC9F0
+purple: #7209B7
+saturated magenta: #B5179E
+dark blue: #3A0CA3
+*/
+body {
+  text-align: center;
+}
+h1 {
+  color: #3a0ca3;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1;
+  letter-spacing: 5px;
+}
+p {
+  font-size: 18px;
+  color: #7209b7;
+}
+#navbar {
+  color: #b5179e;
+}
+#fotter {
+  color: #b5179e;
+}
+img {
+  width: 300px;
+}
